@@ -1,1 +1,24 @@
-/* styles go here */
+.form-field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.last-form-field {
+  margin-bottom: 0;
+}
+
+.last-fieldset {
+  margin-bottom: 0;
+}
+
+.inline-block {
+  display: inline;
+}
+
+.submit-button {
+  margin-top: 20px;
+}
